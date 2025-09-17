@@ -25,7 +25,7 @@ The festival featured a **total of six events**:
 
 ## Repository Contents
 
-- `quanta.html` – Main brochure HTML file.    
+- `index.html` – Main brochure HTML file.    
 - images/
 
 ## Collaboration
